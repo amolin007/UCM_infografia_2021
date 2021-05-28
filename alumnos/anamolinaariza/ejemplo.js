@@ -7,7 +7,7 @@ function setup() {
 }
 
 function draw() {
-  background(0,0,90); 
+  background(0,0,50); 
 }
 
 function keyTyped(){
