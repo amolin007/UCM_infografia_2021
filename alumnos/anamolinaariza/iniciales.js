@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-  background(0,0,100);
+  background(0,0,99);
   d = (d + 0.5)%360;
   strokeWeight(g)
   stroke(0,0,0);
